@@ -63,3 +63,6 @@ PyTorch:
         PyTorch has a rich ecosystem of libraries, such as torchvision and torchaudio, which provide tools for computer vision and audio processing tasks.
 
 In summary, the choice between TensorFlow and PyTorch often depends on personal preference, project requirements, and the specific characteristics of the task at hand. TensorFlow may be preferred for production-level deployments and projects with a focus on scalability, while PyTorch is often favored for its flexibility, ease of use, and popularity in the research community. Many deep learning practitioners are comfortable with both frameworks, as the fundamental concepts are similar, and knowledge in one can be easily transferred to the other.
+<br><br>
+# Order of eating these Note Books:
+- 1- ARC_101_Tensorflow_zero2hero_01
